@@ -13,7 +13,7 @@ Python is procedural, object-oriented, dynamically typed, and garbage collected.
 
 """
 % python -V
-Python 2.6.5
+Python 2.7.3
 %
 """
 
@@ -30,8 +30,8 @@ Nothing to be done.
 
 """
 % python
-Python 2.6.5 (r265:79063, Apr 16 2010, 13:57:41)
-[GCC 4.4.3] on linux2
+Python 2.7.3 (default, Aug  1 2012, 05:14:39)
+[GCC 4.6.3] on linux2
 Type "help", "copyright", "credits" or "license" for more information.
 
 >>> import Hello
@@ -43,8 +43,8 @@ Nothing to be done.
 
 """
 % python
-Python 2.6.5 (r265:79063, Apr 16 2010, 13:57:41)
-[GCC 4.4.3] on linux2
+Python 2.7.3 (default, Aug  1 2012, 05:14:39)
+[GCC 4.6.3] on linux2
 Type "help", "copyright", "credits" or "license" for more information.
 
 >>> help()
@@ -82,8 +82,8 @@ help> quit
 
 """
 % python
-Python 2.6.5 (r265:79063, Apr 16 2010, 13:57:41)
-[GCC 4.4.3] on linux2
+Python 2.7.3 (default, Aug  1 2012, 05:14:39)
+[GCC 4.6.3] on linux2
 Type "help", "copyright", "credits" or "license" for more information.
 
 >>> import this
